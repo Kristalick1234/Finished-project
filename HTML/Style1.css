@@ -8,10 +8,10 @@
 }
 
 .h1 {
-    color: rgb(190, 19, 19);
+    color: rgb(255, 255, 255);
     font-size: 50px;
     font-style: italic;
-    text-shadow: 0px 0px 6px black;
+    text-shadow: 0px 3px 6px black;
 
     margin-left: 100px;
     margin-top: 100px;
@@ -19,11 +19,12 @@
 }
 
 .paragraph1 {
-    color: rgb(255, 187, 0);
-    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
     font-style: italic;
+    text-shadow: 0px 3px 6px black;
 
-    margin-left: 50px;
+    margin-left: 75px;
     margin-top: 100px;
 }
 
@@ -102,16 +103,18 @@
 }
 
 .h2 {
-    color: rgb(255, 0, 98);
+    color: rgb(255, 255, 255);
     font-size: 50px;
+    font-style: italic;
 
     margin-top: 25px;
 
 }
 
 .list1 {
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 30px;
+    font-style: italic;
 
     margin-left: 25px;
     margin-bottom: 20px;
@@ -136,12 +139,10 @@
  
 }
 
-.label1 {
-    margin-left: 300px;
-}
-
 .paragraph2 {
     font-size: 35px;
+    font-style: italic;
+    color: rgb(145, 255, 0);
 
 }
 
@@ -157,27 +158,34 @@
 }
 
 .th1 {
-    background-color: rgb(111, 50, 168);
+    background-color: rgb(67, 32, 133);
+    color: rgb(255, 255, 255);
     border-radius: 6px;
+    font-size: 18px;
+    font-style: italic;
      
 }
 
 .th2 {
     background-color: rgb(67, 32, 133);
+    color: rgb(255, 255, 255);
     border-radius: 6px;
+    font-size: 18px;
+    font-style: italic;
 
 }
 
 .td1 {
-    background-color: aqua;
-    color: rgb(132, 76, 165);
+    background-color: rgb(44, 82, 139);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
     font-style: italic;
     
 }
 
 .td2 {
     background-color: rgb(44, 82, 139);
-    color: rgb(60, 76, 165);
+    font-size: 24px;
     font-style: italic;
 
     width: 190px;
